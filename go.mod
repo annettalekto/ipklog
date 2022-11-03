@@ -2,7 +2,7 @@ module github.com/annettalekto/ipklog
 
 go 1.19
 
-require github.com/annettalekto/ipkCmn v0.0.0-20221102124726-f3e809680663
+require github.com/annettalekto/ipkCmn v1.0.1
 
 require (
 	github.com/TheTitanrain/w32 v0.0.0-20200114052255-2654d97dbd3d // indirect
